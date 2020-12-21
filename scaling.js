@@ -1,6 +1,6 @@
 if (screen.width >= 1680) {
 	
-	document.write("<style>body{max-height: 800px; max-width: 1920px;}.boxYeezy{margin-left: 188px;}.header{margin-left: -10px;}.BetterVis{margin-top: 145px;}</style>")
+	document.write("<style>body{max-height: 800px; max-width: 1920px;}.boxYeezy{margin-left: 188px;}.header{margin-left: -11px;}.BetterVis{margin-top: 145px; margin-left: -19px;}</style>")
 }
 
 function changeColor(id)
