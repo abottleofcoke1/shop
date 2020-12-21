@@ -1,0 +1,274 @@
+body {
+	
+	height: 100vh;
+    width: 100%;
+	zoom: 105%;
+	min-height: 610px;
+	max-height: 500px;
+    background-color: #171717;
+	font-family: Candara;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+
+.header {
+	
+	text-align: center;
+	color: white;
+	font-size: 27px;
+	margin-left: -10px;
+	margin-bottom: 100px;
+}
+
+.BetterVis {
+	
+	text-align: center;
+	margin-top: 35px;
+	margin-left: -18px;
+}
+
+.BorderBetterVis {
+	
+	border-right: solid #4AA02C 2px;
+	border-left: solid #87F717 2px;
+	border-top: solid  #348017 2px;
+	border-bottom: solid #7FE817 2px;
+	border-radius: 15px;
+	padding: 14px 10px;
+	transition: 0.25s;
+    cursor: pointer;
+	outline: none;
+	color: white;
+	background-color: black;
+	font-size: 15px;
+	width: 150px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.boxYeezy {
+	
+	background-color: #E5E4E2;
+	width: 250px;
+	min-height: 350px;
+	max-height: 350px;
+	margin-left: 40px;
+	border: solid 3px #D1D0CE;
+	border-radius: 10px;
+	box-shadow: 12px 12px #0a0a0a;
+	display: inline-block;
+	vertical-align: top;
+	position: relative;
+	transition: 0.25s;
+}
+
+.boots {
+	
+	text-align: center;
+	color: black;
+	font-size: 24px;
+	font-family: Monospace;
+}
+
+.yeezy {
+	
+	width: 160px;
+	height: 110px;
+	margin-top: 50px;
+	border: 3px solid #dedcdc;
+	padding: 4px 5px 10px;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+.yeezySpace {
+	
+	text-align: center;
+}
+
+.buyButton {
+	
+	border-right: solid #2B60DE 2px;
+	border-left: solid #1F45FC 2px;
+	border-top: solid #2554C7 2px;
+	border-bottom: solid #2B65EC 2px;
+	border-radius: 9px;
+	margin-top: 53px;
+	padding: 1px 1px;
+	width: 55px;
+	outline: none;
+	background-color: #171616;
+	color: #f2f0f0;
+	font-family: Monospace;
+	font-size: 25px;
+	cursor: pointer;
+	transition: all 0.5s;
+	font-size: 20px;
+}
+
+.buyButtonSpace {
+	
+	text-align: center;
+}
+
+.buyButton:hover {
+	
+	background-color: #ccc8c8;
+	color: #171616;
+	border-right: solid #4AA02C 2px;
+	border-left: solid #87F717 2px;
+	border-top: solid  #348017 2px;
+	border-bottom: solid #7FE817 2px;
+}
+
+.boxJordan {
+	
+	background-color: #E5E4E2;
+	width: 250px;
+	min-height: 350px;
+	max-height: 350px;
+	margin-left: 35px;
+	border: solid 3px #D1D0CE;
+	border-radius: 10px;
+	box-shadow: 12px 12px #0a0a0a;
+	display: inline-block;
+	vertical-align: top;
+	transition: 0.25s;
+}
+
+.bootsTwo {
+	
+	text-align: center;
+	color: black;
+	font-size: 24px;
+	font-family: Monospace;
+}
+
+.jordan {
+	
+	width: 160px;
+	height: 110px;
+	margin-top: 50px;
+	border: 3px solid #dedcdc;
+	padding: 4px 5px 10px;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+.jordanSpace {
+	
+	text-align: center;
+}
+
+.boxVans {
+	
+	background-color: #E5E4E2;
+	width: 250px;
+	min-height: 350px;
+	max-height: 350px;
+	margin-left: 35px;
+	border: solid 3px #D1D0CE;
+	border-radius: 10px;
+	box-shadow: 12px 12px #0a0a0a;
+	display: inline-block;
+	vertical-align: top;
+	transition: 0.25s;
+}
+
+.bootsThree {
+	
+	text-align: center;
+	color: black;
+	font-size: 24px;
+	font-family: Monospace;
+}
+
+.vans {
+	
+	width: 160px;
+	height: 75px;
+	margin-top: 50px;
+	border: 3px solid #dedcdc;
+	padding: 30px 4px 19px;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+.vansSpace {
+	
+	text-align: center;
+}
+
+.boxConverse {
+	
+	background-color: #E5E4E2;
+	width: 250px;
+	min-height: 350px;
+	max-height: 350px;
+	margin-left: 35px;
+	border: solid 3px #D1D0CE;
+	border-radius: 10px;
+	box-shadow: 12px 12px #0a0a0a;
+	display: inline-block;
+	vertical-align: top;
+	transition: 0.25s;
+}
+
+.bootsFour {
+	
+	text-align: center;
+	color: black;
+	font-size: 24px;
+	font-family: Monospace;
+}
+
+.converse {
+	
+	width: 160px;
+	height: 120px;
+	margin-top: 50px;
+	border: 3px solid #dedcdc;
+	padding: 4px 5px 0px;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+.converseSpace {
+	
+	text-align: center;
+}
+
+.boxYeezy:hover {
+	
+	min-height: 380px;
+	transition: 0.5s;
+	width: 270px;
+}
+
+.boxJordan:hover {
+	
+	min-height: 380px;
+	transition: 0.5s;
+	width: 270px;
+}
+
+.boxVans:hover {
+	
+	min-height: 380px;
+	transition: 0.5s;
+	width: 270px;
+}
+
+.boxConverse:hover {
+	
+	min-height: 380px;
+	transition: 0.5s;
+	width: 270px;
+}
+
+.BorderBetterVis:hover {
+	
+	background-color: #6CC417;
+	font-size: 17px;
+	transition: 0.25s;
+}
